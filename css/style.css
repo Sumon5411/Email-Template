@@ -1,0 +1,84 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: #0a7c5f;
+}
+.transactionSuccesful {
+    width: 610px;
+    overflow: hidden;
+    margin: auto;
+    height: 100%;
+    background: white;
+    font-family: 'Turret Road', cursive;
+    border-radius: 5px;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+.transactionIcon {
+    font-size: 65px;
+    margin-left: 263px;
+    color: #0A7C5F;
+    margin-top: 30px;
+}
+img.logo {
+    width: 215px;
+    margin-left: 564px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h1.transactionHeading {
+    text-align: center;
+}
+h1.userHi {
+    text-align: center;
+}
+p.transactionMessage {
+    text-align: center;
+    border-bottom: 5px solid #0a7c5f;
+    width: fit-content;
+    margin: auto;
+}
+.inviteFreinds {
+    margin-top: 40px;
+    text-align: center;
+}
+button.buttonForInviteFriends {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background: #0a7c5f;
+    margin-left: 223px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: white;
+}
+h2.headingOfSocialMedia {
+    text-align: center;
+    color: white;
+}
+p.ownerComment {
+    text-align: center;
+}
+
+p.bestTeam {
+    float: left;
+    margin-left: 193px;
+}
+
+.bestTeamLogo {
+    float: right;
+}
+img.teamLogo {
+    width: 150px;
+    margin-right: 160px;
+    margin-top: 17px;
+}
+.socialMedia {
+    text-align: center;
+}
+i.fab.fa-linkedin-in {}
+
+.footerIcon {
+    padding: 0px 10px;
+    color: white;
+    font-size: 25px;
+}
